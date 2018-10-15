@@ -34,4 +34,8 @@ Create your database and configure your .env file and run :
 
 <i>php artisan migrate</i>
 
+Run database seed
+
+<i>php artisan db:seed</i>
+
 <strong>You are good to go!!!!!!</strong>
